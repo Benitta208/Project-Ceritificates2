@@ -1,0 +1,27 @@
+React (Basic):
+Introduces React fundamentals, including components and JSX.
+Covers props, state, and basic event handling.
+Explains functional components and hooks like useState.
+Demonstrates simple React app creation.
+Lays the foundation for frontend development with React.
+
+Frontend Developer (React):
+Covers advanced React concepts like hooks, context API, and routing.
+Teaches state management techniques, including Redux.
+Focuses on component lifecycle and performance optimization.
+Covers API integration and handling asynchronous data.
+Prepares for building scalable, production-ready React applications.
+
+Node.js (Basic):
+Introduces Node.js and its event-driven architecture.
+Covers working with the file system and built-in modules.
+Teaches setting up a basic Express.js server.
+Explores handling HTTP requests and responses.
+Ideal for beginners entering backend development.
+
+Node.js (Intermediate):
+Covers middleware, authentication, and security best practices.
+Explores database integration with MongoDB and PostgreSQL.
+Teaches API development, RESTful services, and WebSockets.
+Focuses on performance optimization and debugging.
+Prepares for building scalable backend applications.
